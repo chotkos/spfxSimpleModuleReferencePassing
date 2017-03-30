@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/simpleconsole2/Simpleconsole2WebPart.js",
+      "manifest": "./src/webparts/simpleconsole2/Simpleconsole2WebPart.manifest.json",
+      "outputPath": "./dist/simpleconsole-2.bundle.js"
+    },
+    {
+      "entry":"/src/webparts/simpleconsole2/app/app.js",
+      "outputPath": "./dist/app.js"
+    }
+  ],
+  "externals": {
+    "jquery":"node_modules/jquery/dist/jquery.min.js",
+    "jqueryui":"node_modules/jqueryui/jquery-ui.min.js"
+  },
+  "localizedResources": {
+    "simpleconsole2Strings": "webparts/simpleconsole2/loc/{locale}.js"
+  }
+}

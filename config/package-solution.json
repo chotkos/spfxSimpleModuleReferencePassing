@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "simpleconsole-2-client-side-solution",
+    "id": "e3d0c3b1-8aa6-44d5-8a42-a429b2ddae1b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/simpleconsole-2.sppkg"
+  }
+}

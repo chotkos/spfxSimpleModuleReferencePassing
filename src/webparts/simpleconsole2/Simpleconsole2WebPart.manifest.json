@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "ed4320c4-0e51-4270-8f50-3a779c1db978",
+  "alias": "Simpleconsole2WebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "ed4320c4-0e51-4270-8f50-3a779c1db978",
+    "group": { "default": "Under Development" },
+    "title": { "default": "simpleconsole2" },
+    "description": { "default": "simpleconsole2 description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "simpleconsole2"
+    }
+  }]
+}

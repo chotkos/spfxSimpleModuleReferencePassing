@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "simpleconsole-2",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "e3d0c3b1-8aa6-44d5-8a42-a429b2ddae1b"
+  }
+}
